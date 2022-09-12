@@ -1,0 +1,2 @@
+arquivo = open('Quake.txt', 'r')
+texto
